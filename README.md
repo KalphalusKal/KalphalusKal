@@ -29,7 +29,10 @@ YouRTube (YouTube Client to watch videos your way)
 PlaiR (Music Player meant to be the best pick)
 Sondera (A Chat app like discord, this is the least likely to take off in my opinion)
 ### Notes:
+Most projects will be hosted at [@Kalphalus](https://www.github.com/Kalphalus) from now on
+
+
 Im avoiding AI Code apps because I wont be able to do basic things without if I go with them.
 
 
-I wouldnt be here without [SourceLocation](https://www.github.com/sourcelocation) and [LeminLimez](https://www.github.com/LeminLimez), if I hadnt found TrollTools it wouldnt have brought me down the path of coding, if either of you are reading this, thank you.
+I wouldnt be here without [@SourceLocation](https://www.github.com/sourcelocation) and [@LeminLimez](https://www.github.com/LeminLimez), if I hadnt found TrollTools it wouldnt have brought me down the path of coding, if either of you are reading this, thank you.
