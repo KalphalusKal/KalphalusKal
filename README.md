@@ -27,7 +27,7 @@ And More
 My main projects are:
 (Hidden for now because I am not progressing well and want to take my time)
 ### Notes:
-Most projects will be hosted at [@Kalphalus](https://www.github.com/Kalphalus) from now on
+Most of my projects are at [@Kalphalus](https://www.github.com/Kalphalus)
 
 
 Im avoiding AI Code apps because I wont be able to do basic things without if I go with them.
