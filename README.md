@@ -25,9 +25,7 @@ Soldering/Repairs
 And More
 # My Projects
 My main projects are:
-YouRTube (YouTube Client to watch videos your way)
-PlaiR (Music Player meant to be the best pick)
-Sondera (A Chat app like discord, this is the least likely to take off in my opinion)
+(Hidden for now because I am not progressing well and want to take my time)
 ### Notes:
 Most projects will be hosted at [@Kalphalus](https://www.github.com/Kalphalus) from now on
 
