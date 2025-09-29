@@ -20,7 +20,7 @@ Hey! Im Kal! Im between 10 and 16 and have strange interests for my age. I am le
 Most of my projects are at [@Kalphalus](https://www.github.com/Kalphalus)
 
 
-Im avoiding AI Code apps because I wont be able to do basic things without if I go with them.
+Im avoiding AI Code apps because I wont be able to do basic things without if I go with them. I do use AI to help write basic scripts to help me automate actions as I cant code yet.
 
 
 My Profiles "Contributions" arent really contributions, im bad at this, so I can update the same thing like 15-20 times in 5 minites
